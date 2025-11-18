@@ -6,8 +6,10 @@
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** [Kelly Valeria Guaman Leon]
-- **Fecha:** [17/11/2025]
+- **Fecha:** [18/11/2025]
 - **Profesor:** Ing. Pablo Torres
 
 ---
 
+## Resultado consola
+![alt text](image.png)
